@@ -57,7 +57,7 @@ export default {
 ```
 
 ## Options
-同`ftp-deploy`
+同[ftp-deploy](https://www.npmjs.com/package/ftp-deploy)
 ```
 export type FtpOptions = {
   user: string,
