@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-ftp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "description": "umi生产构建完成后自动上传到远程服务器",
   "authors": {
